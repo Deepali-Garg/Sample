@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main()
+{ printf("Why do we always print -'Hello, World'? :P");
+return 0;
+}
